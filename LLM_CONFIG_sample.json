@@ -1,5 +1,5 @@
 [
-    {"agent": "Expert Selector", "details": {"model": "gpt-4-turbo", "provider":"openai","max_tokens": 500, "temperature": 0}},
+    {"agent": "Expert Selector", "details": {"model": "gpt-4", "provider":"openai","max_tokens": 500, "temperature": 0}},
     {"agent": "Analyst Selector", "details": {"model": "gpt-4-turbo", "provider":"openai","max_tokens": 500, "temperature": 0}},
     {"agent": "Theorist", "details": {"model": "gpt-4-turbo", "provider":"openai","max_tokens": 2000, "temperature": 0}},
     {"agent": "Planner", "details": {"model": "gpt-4-turbo", "provider":"openai","max_tokens": 2000, "temperature": 0}},
